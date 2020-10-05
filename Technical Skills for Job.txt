@@ -1,0 +1,1403 @@
+Strong coding experience in Python, Python libraries, TensorFlow, Keras
+Good communication skills - Presentable to stakeholders
+Experience with Content analytics, NLP/NLU and related ML algorithm like Tf-Idf, topic modelling, content summarization etc
+Fast experimentation and iterations with selected models
+Develop analytics components for integration with enterprise grade products
+Generate IP in form of research papers, patents, business paper, conference participation
+Develops, enhances, and validates the methods of measuring and analyzing risk, for all risk types including market, credit and operational. Also, may develop, validate and strategize uses of scoring models and scoring model related policies.
+Conducts statistical analysis for risk related projects and data modeling/validation.
+Applies quantitative and qualitative data analysis methods including SAS programming, Structured Query Language (SQL) to extract, transform and analyze data and Visual Basic programming language.
+Prepares statistical and non-statistical data exploration, validate data, identify data quality issues.
+Conducts data analysis, data mining, read and create formal statistical documentation, reports and work with Technology to address issues.
+Analyzes and interprets data reports, make recommendations addressing business needs.
+Uses Predictive modeling methods, Optimizing monitoring systems, document optimization solutions, and present results to non-technical audiences; write formal documentation using statistical vocabulary.
+Generates statistical models to improve methods of obtaining and evaluating quantitative and qualitative data and identify relationships and trends in data and factors affecting research results.
+Validates assumptions; escalate identified risks and sensitive areas in methodology and process.
+Automates data extraction and data preprocessing tasks, perform ad hoc data analyses, design and maintain complex data manipulation processes, and provide documentation and presentations.
+big data , impala , hive , data warehousing , sql , hadoop , sas , mobile , machine learning , consultant , written communication
+Understand and translate statistical models to address client business problems
+Lead team in the data synthesis process, solution design and creation of actionable insights, implications and recommendations to address client's business issues in the areas of marketing optimization, pricing analytics, social/digital analytics.
+Provide high-end consulting to clients to help them sharpen their business strategy by implementing analytical models using techniques like Linear Regression, Logistic regression, Bayesian regression, Factor analysis, Cluster analysis, Sampling, ARIMA that support the realization of business objectives
+Design and execute market mix optimization engagement and pricing studies based on historic sales data and develop sophisticated analytical frameworks that add value to the client and results in new projects and revenue stream.
+Develop KPI frameworks for evaluating direct and indirect impacts of marketing campaigns.
+Generate knowledge sharing trends in the team, participate in developing white papers & share new trends in marketing analytics with colleagues and also evolve one’s own opinion on the concepts
+Should have experience in Project & client management.
+The overall experience of Minimum 2 to 6 years with at least 2 to 5 years of hands-on experience in Analytics and Marketing Mix Modeling projects
+Technical mastery in tools such as R, Python & Excel.
+Strong experience in marketing analytics domain- exposure to Marketing Mix modeling and pricing analytics
+Practical experience developing sophisticated statistical or econometric models
+Excellent written and verbal communication skills & Client result oriented
+Should have worked in the analytics industry for 2-4 years
+Ability to mentor and lead teams
+Data Scientist Machine LearningDescriptionIf you want to use Artificial Intelligence to solve the most pressing problems in the Indian logistics industry, our data team is the place to be. We are the country's premium data science team featured widely in press and news;
+the past year, the data science team at Delhivery has built key capabilities in the following areas:Maps: Our business relies heavily on understanding where our end customers live and how to get there. 
+This is a huge India specific challenge, primarily because of the unstandardized way of writing addresses and poor quality of road/pincode data in smaller towns/villages. 
+We process a large amount of location data from our devices on the ground to learn locality boundaries, routes taken by ground staff, etc.Machine Learning: 
+We use a range of machine learning techniques to automate decision making at the ground level, e.g., identifying whether a shipment is safe to fly based on its product description, identifying which shipments have a high probability of being returned, etc.
+Discrete Optimisation: We rely on a range of optimisation methods to ensure our distribution network is designed for cost efficiencies and scale, e.g., Vehicle Routing Problem to optimise the shipment collection process from clients, 
+Facility Location Problem to ensure our distribution centres are suitably located, etc.Simulation: The scale of our distribution network often makes many problems intractable due to the existence of millions of variables and how they interact with each other over time. 
+We are investing to build an in-house Simulator to enable us to measure the impact of changes in the network over time and ultimately design a system that can be - self aware- .We are looking to expand our team to further our capabilities in the area of Machine Learning.
+Responsibility- Collaborate with cross-functional teams including but not limited to Engineering, Products, Operations, Sales, Marketing, Security, Customer Service, etc. to breakdown complex business problems and recommend data science products.- 
+Use advanced statistics and machine learning on large scale multidimensional data and generate actionable insights that will be leveraged to drive operations and develop strategies for Delhivery.- Use machine learning and analytical techniques to create scalable solutions for business problems.- 
+Contribute to the development/ deployment of machine learning algorithms.- Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation.- 
+Disseminate original research in peer reviewed journals and conferences.Qualifications- Degree (B.Tech, MS, PhD or equivalent) in Computer Science, Mathematics, Operational Research, Statistics or 
+Natural Sciences- 1-7 years of work experience in data science and statistical modeling for DS, 3+ for Sr. DS- A very clear understanding of probability and statistics, analytical approach to problem solving, and capability to think critically on a diverse array of problems- 
+Supervised Machine Learning Algorithms: Logistic Regression, Bayesian Approach, Decision Trees, Support Vector Machines. Neural Networks, Ensemble Methods, Feature selection techniques etc- Understanding of advanced algorithms (i.e. Deep Learning, Probabilistic Graph Models) will be good to have- 
+Familiarity with statistical methods such as hypothesis testing, forecasting, time series analysis, etc - gained through work experience or graduate level education- Expertise in at least one of the following languages: Python, Java, C++- Experience with relational databases NoSQL 
+databases such as MongoDB, Elastic Search, Redis or any graph database- Experience in handling geospatial data such as PostGIS will be appreciated- Skilled at data visualization and presentation- Good communication skills with both technical and business people- 
+Experience with big data tools like Spark, Hadoop is a plus- Publications in peer-reviewed journals will count in your favour- Most importantly, an inquisitive mind, an ability for self learning and abstraction along with a risk appetite for experimentation and failure (ref:iimjobs.com)
+Data Science,Data Scientist,Data Management,Statistical Modeling,SQL,Python,Data Visualization,Statistics,Model Validation,Machine Learning
+machine learning, python, data analysis, sql, analytics, data science, decision trees, problem solving, neural networks, vehicle routing, customer service, computer science, model validation, natural sciences, model development
+Degree (B.Tech, MS, PhD or equivalent) in Computer Science, Mathematics, Operational Research, Statistics or Natural Sciences 1- 3 years of work experience in data science and statistical modeling for DS, 3+ for Sr. DS
+A very clear understanding of probability and statistics, analytical approach to problem solving, and capability to think critically on a diverse array of problems
+Supervised Machine Learning Algorithms: Logistic Regression, Bayesian Approach, Decision Trees, Support Vector Machines. Neural Networks, Ensemble Methods, Feature selection techniques etc
+Understanding of advanced algorithms (i.e.,
+This job is provided by Shine.com
+machine learning, python, data analysis, sql, analytics, supply chain, data science, graph theory, problem solving, vehicle routing, customer service, computer science, daily operations, particle physics, natural sciences, co
+Degree (B.Tech, MS, PhD or equivalent) in Computer Science, Mathematics, Operational Research, Statistics or Natural Sciences
+years of work experience in data science and statistical modeling for DS, 3+ for Sr. DS
+A very clear understanding of probability and statistics, analytical approach to problem solving, and capability to think critically on a diverse array of problems
+Practical and Theoretical knowledge of OR Tools: Mathematical Programming (Linear/ Non- linear techniques), Graph Theory, Simulation, Convex Optimisation, Transportation Problem, Vehicle Routing Problem, Facility Location Problem, Queuing Theory, Inventory Management, Forecasting Techniques, etc.
+Knowledge about meta- heuristics like Genetic Algorithm, Tabu Search, Simulated Annealing, etc would be beneficial.,
+One or more 3rd party marketing solutions e.g. Adobe Analytics/Marketing Cloud, Salesforce, IBM Unica, Blueshift, Oracle
+Working with any of the commercial distributions of Hadoop (Hortonworks, Cloudera, MapR, etc.). Strong technical competence to perform advanced marketing analytics: Coding skills (java or python), experience performing analysis with large datasets, analytics tools experience (Hadoop, PySpark, SAS, SQL, HIVE,etc.)
+Data Integration on traditional and Hadoop environments
+Modern marketing customer data sources and services like CDP’s (Customer Data Platforms), DMP’s (Data Management Platforms), and ID Management, and how to leverage data for improved marketing effectiveness.
+Expertise in digital marketing reporting, analytics, and attribution methodologies including multi-touch attribution, deterministic and probabilistic attribution, and tagging methodologies for improved attribution fidelity. 
+Experience in statistical techniques such as: multivariate predictive modeling, multidimensional segmentation, factor analysis, lifetime value determinations, linear and logistic regression, CHAID analysis, latent class analysis, multinomial logistic regression, survival analysis, 
+fractional factorial test design, cluster analysis, Markov Chains, econometric time series AR, MA and ARIMA and Bayesian structural time series (BSTS) modeling, etc.
+Strong ability to translate quantitative data into actionable recommendations and to translate business objectives into marketing goals and measurements
+Experience in public cloud technology stacks of Amazon Web Services, Google Cloud, & Microsoft Azure will be an added advantage
+Passionate about software engineering best practice include Agile, TDD, continuous delivery, microservices, measurement and software
+Ability to demonstrate influencing and negotiating skills to align a number of potentially conflicting views with internal and external stakeholders.
+Sets challenging team and individual objectives and trusts people to get on with them, shares clear expectations about required performance levels, rewards success and addresses performance issues quickly and fairly, treats team members with honesty, respect and compassion.
+Implements HR processes where suitable.
+Challenges systems, processes and people in order to achieve business objectives.
+Predictive & Prescriptive Analytics, Web Analytics, Parametric and Non-parametric models, Regression, Time Series, Dynamic/Causal Model, Statistical Learning, Guided Decisions, Topic Modeling Experience in Machine Learning, supervised and unsupervised
+Forecasting, Classification, Data/Text Mining, NLP, Decision Trees, Adaptive Decision Algorithms, Random Forest, Search Algorithms, Neural Networks, Deep Learning Algorithms Lead role mentoring junior statistical analysts on approach and results. 
+Experience with big data analytics and advanced data mining techniques to analyze data Experience with identifying trends, patterns, and outliers in data Experience with statistical programming languages, analytical packages/libraries (R, Python) 
+Experience with statistical tools (R studio, Revolution R, Python notebooks) Experience with SQL and relational databases, data warehouse platforms (Teradata), NoSQL databases Experience with big data platforms
+Hadoop(Hive, Pig, Map Reduce, HQL)/Spark/H2O Min. Qualification ug Skills Required classification, decision trees, forecasting, hadoop, hive, nosql, pig, predictive modeling, python, r, regression, text mining, time series, web analytics
+hive , algorithms , hql , data mining , sql , pig , hadoop , big data , python , machine learning , nosql
+MS or Ph.D. in Computer Science / Statistics / Applied Mathematics
+Strong in machine learning concepts
+Knowledge of Python Libraries - Scipy,Numpy,Pandas, IPython, Scikit-learn, Seaborn, PyTorch, Tensorflow
+Strong Python skills for data wrangling / analysis / visualization / modeling
+Experience with distributed big data processing (Spark)
+Deployed at least one production project using machine learning
+Experience in e-commerce companies
+Ph.D. in Operations Research, Statistics, Applied Mathematics, Computer Science or a related field with publications in refereed academic journals.
+At least 12 to 15 years of experience in solving complicated optimization and machine learning problems for transportation networks or analogous disciplines developing a strategy for large-scale networks.
+Experience designing and implementing transportation optimization models with focus on volume and route planning and re-planning; labor and facilities planning.
+Excellent communication skills, both written and oral with both technical and business people. Ability to speak at a level appropriate for the audience. Experience applying these skills in both academic teaching environment and a business setting is a plus.
+Excellent writing skills for presenting business cases and to document the models and analysis and present the results/conclusions in order to influence important decisions.
+A working knowledge of smooth and non-smooth optimization methods accompanied by associated expertise in the use of tools and the latest technology (e.g. CPLEX, Gurobi, XPRESS).
+A working knowledge of exact, approximation algorithms, and heuristic methods for solving difficult optimization problems like vehicle routing and network design problems.
+The ability to implement models and tools through the use of high-level modeling languages (e.g. AMPL, Mosel, R, Matlab).
+Experience prototyping and developing software in traditional programming languages (C++, Java, Clojure, Python).
+Familiarity with SQL and experience with very large-scale data. The ability to manipulate data by writing scripts (Perl, Ruby, Groovy) a plus.
+Statistical analysis, machine learning and data-modeling in a database environment a plus
+Exhibits excellent judgment
+Has relentlessly high standards
+Thinks strategically, but stays on top of tactical execution
+Expects and requires innovation of her/his team
+Thinks big and has convictions
+Results oriented
+Has the innate ability to inspire passion in other
+Master’s or Ph.D. in statistics, mathematics, or computer science
+Only from Tier 1 Colleges
+Experience using statistical computer languages such as R, Python, SQL, etc.
+Experience in statistical and data mining techniques, including generalized linear model/regression, random forest, boosting, trees, text mining, social network analysis
+Experience working with and creating data architectures
+Knowledge of machine learning techniques such as clustering, decision tree learning, and artificial neural networks
+Knowledge of advanced statistical techniques and concepts, including regression, properties of distributions, and statistical tests
+years of experience manipulating data sets and building statistical models
+Experience using web services: Redshift, S3, Spark, DigitalOcean, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data.
+You will be aligned with our Insights & Intelligence vertical and help us generate insights by leveraging different analytics tools and techniques to deliver value to our clients. You will also help us apply your expertise in building world class solutions, conquering the business problems, 
+addressing technical challenges using AI Platforms and technologies. You will be required to utilize the existing frameworks, standards, patterns to create architectural foundation and services necessary for AI applications that scale from multi-user to enterprise class and demonstrate self as an 
+expert by actively blogging, publishing research papers and creating awareness in this emerging area.
+You will be working as a part of Predictive Analytics & Modeling team which encompasses a variety of statistical techniques from data mining, predictive modelling, and machine learning, that analyze current and historical facts to make predictions about future or otherwise unknown events.
+You will be working on Data Science which is an interdisciplinary field about scientific methods, processes and systems to extract knowledge or insights from data in various forms, either structured or unstructure.
+Good to have skills: Predictive Modeling and Analytics,R Language and Environment,Python Programming Language,Machine Learning,Presentation skills,Analytic skills
+BS degree or higher in a quantitative field such as applied math, statistics, engineering, physics, accounting, finance, economics, econometrics, computer sciences, or business/social and behavioral sciences with a quantitative emphasis
+8-12 years of relevant experience.
+Excellent understanding of data wrangling and preparation techniques both in single and multithreaded systems in Pandas, Numpy, RDD and spark data-frame
+Excellent command over supervised, unsupervised and semi-supervised techniques including but not limited to Random Forest, GBM, Ridge-Lasso-ElasticNet, XGboost etc. Time-series techniques like Arima (and the family), Arch, Garch etc.
+Experience with Deep-learning, Artificial intelligence techniques like ANN, CNN, DNN, RNN etc. and how to strategize deep-learning layer and activations.
+Experience implementing machine learning algorithms such as support vector machines, decision trees, logistic regression, clustering, neural networks, graphical models etc.
+Excellent understanding of model metrics including AUC, ROC, CAP-curve, F-statistics etc. with clear understanding of how model performance is tuned
+Strong programing skills.
+Expertise in analytic tools : R, Python, Scala, Java, SAS
+Big Data skills – Aster, Hadoop, SPARK, H20 and various big data distributions like Hortonworks and MapR
+NLP, Text mining, Image/Voice processing, digital analytics, deep learning, machine learning
+Demonstrate excellent organization skills throughout the development of analytical solutions (data analysis documentation, hypothesis documentation, code management, etc.).
+Data Engineering
+Sql ,Teradata, Hadoop, Spark
+Exploratory Data analysis
+Provide exploratory data analysis using Python/R/SAS / SQL
+Experience with Databases like oracle , Teradata, Sql server
+Advance Excel skills
+Data integration and clean up data for the usage
+Experience with structured data and semi-structured text or Excel files
+Business Intelligence
+Tableau, Power BI, Shiny, Dash, HTML5
+Business Analytics
+Data mining and Insights
+Trend Analysis , forecasting and pattern recognition
+Find opportunities in the data and able to communicate to the partners
+Consult with partners to define issues/information needs
+Present findings to multiple levels of management
+Ensure that analyses are delivered on time, while surpassing partner expectations
+Ensure partner transparency throughout the life of the project
+Proactively seek opportunities to increase the value of analysis
+Strong oral and written communication and consultative skills
+Desired Qualifications
+Strong collaboration skills
+Output deployment using appropriate technologies (HTML5, Shiny, Django)
+Working expertise in Tensorflow, Keras or Pytorch would be added advantage
+Ability to translate analytical data into useful business information
+Critical thinking and strong problem solving skills
+Ability to learn the business aspects quickly
+Knowledge of banking industry and products
+Knowledge of functional area such as risk, marketing, operations or supply chain in banking industry.
+Ability to multi-task and prioritize.
+Ability to work independently and as part of a team
+Strong understanding of Statistical concepts and algorithms
+Intermediate knowledge of data mining tools like R, R Shiny & Python
+Ability to explain & interpret statistical output results and derive business insights
+High level of comfort with large sets of data and attend to details and passion for accuracy
+Problem-solver, with analytic thinking and ability to apply root cause analysis
+Ability to create a visualization report based on the large and multiple datasets
+Prior experience in managing people
+Ability to prioritize multiple work assignments and meet deadlines
+Experience with third-party data i.e., syndicated market data, Point of Sales, etc.
+Experience of working with R&D, Supply Chain, Ecommerce functions
+Working knowledge of consumer packaged goods industry
+Willingness and ability to experiment with new tools and techniques
+Good facilitation and project management skills
+Ability to maintain personal composure and tactfully handle difficult situations.
+Knowledge of Google products (Big Query, data studio, coda, collab etc)
+Ph.D. in Operations Research, Statistics, Applied Mathematics, Computer Science or a related field with publications in refereed academic journals.
+At least 12 to 15 years of experience in solving complicated optimization and machine learning problems for transportation networks or analogous disciplines developing a strategy for large-scale networks.
+Experience designing and implementing transportation optimization models with focus on volume and route planning and re-planning; labor and facilities planning.
+Excellent communication skills, both written and oral with both technical and business people. Ability to speak at a level appropriate for the audience. Experience applying these skills in both academic teaching environment and a business setting is a plus.
+Excellent writing skills for presenting business cases and to document the models and analysis and present the results/conclusions in order to influence important decisions.
+A working knowledge of smooth and non-smooth optimization methods accompanied by associated expertise in the use of tools and the latest technology (e.g. CPLEX, Gurobi, XPRESS).
+A working knowledge of exact, approximation algorithms, and heuristic methods for solving difficult optimization problems like vehicle routing and network design problems.
+The ability to implement models and tools through the use of high-level modeling languages (e.g. AMPL, Mosel, R, Matlab).
+Experience prototyping and developing software in traditional programming languages (C++, Java, Clojure, Python).
+Familiarity with SQL and experience with very large-scale data. The ability to manipulate data by writing scripts (Perl, Ruby, Groovy) a plus.
+Statistical analysis, machine learning and data-modeling in a database environment a plus
+Exhibits excellent judgment
+Has relentlessly high standards
+Thinks strategically, but stays on top of tactical execution
+Expects and requires innovation of her/his team
+Thinks big and has convictions
+Results oriented
+Has the innate ability to inspire passion in others
+Experience : 8-12 Years
+Experience in Azure: 4+ Years
+Experience in Azure ML: 3+ Years
+Azure ML, Azure ML Pipeline, Azure ML Workspace
+Develop, experiment, train & tune AI/ML Models
+Supervised, Unsupervised, Re-enforced
+Model Formats - Pickle, PMML, ONN
+Language - Python, R, etc
+IDE - Jupyter, VS, Pycharm etc
+Frameworks - Tensorflow, Pytorch, Keras etc.
+Exp: 5-8 years; Overview Fractal is one of the most prominent players in the Artificial Intelligence space. Fractals mission is to power every human decision in the enterprise and uses the power of AI to help the worlds most admired Fortune 500 companies. 
+Fractals products include Qure.ai to assist radiologists make better diagnostic decisions, Cuddle.ai to assists CEOs and senior executives make better tactical and strategic decisions, Theremin.ai to improve investment decisions and Eugenie.ai to find anomalies in high velocity data. 
+Fractal has consistently been rated as Indias best companies to work for, by The Great Place to Work Institute. 
+Fractal has been featured as a leader in the Customer Analytics Service Providers Wave 2019 by Forrester Research, and recognized as an Honorable Vendor in 2019 magic quadrant for data & analytics by Gartner Role Brief As a Senior data scientist you will primarily develop 
+machine learning solutions that will predict a customers needs/intentions in real-time at the moment of interaction, in batch prior to the event, or in batch after the event for analytical labeling/categorization. 
+The outputs of these models will then be used to determine the optimal engagement and experience to provide to the customer. You will partner with functional and channel stakeholders, work with domain experts, design and execute experiments on the data to achieve predefined outcomes. 
+In addition to model development, you may, independently or within a team, need to build solutions to support the overall project, including label generation, data schemas, ad hoc analytics, output structure/packaging, or end-to-end prototype demos. 
+You will be responsible for presenting your own work to team members, peers, and leadership, and will build any visualizations or presentations necessary for those communications. 
+Company Fractal Qualifications Knowledge of predictive/prescriptive analytics including Machine Learning algorithms (Supervised and Unsupervised) and deep learning algorithms, Artificial Neural Networks (CUDA, Keras, Tensorflow) or Combinatorics (Mixed Integer Programming). 
+Experience leading the end-to-end design, development, and deployment of predictive modeling solutions. Advanced SQL skills with Teradata, SQL Server, Hive and Spark experience. Experience with Natural Language Processing (NLTK) and text analytics for information extraction, parsing and topic modeling. 
+Six or more years of relevant work experience Ability to plan work and meet deadlines Experience with using big data to develop models. Experience with Spark. Experience presenting to and influencing functional leaders and stakeholders. Deep expertise in applying machine learning to solve a class 
+of AI problems such as NLU/NLP, Reinforcement Learning, Voice Biometrics, Text Mining, and Intelligent Process Automation. 
+Level of experience (years) Senior (5 years of experience) Tagged as Academia, Big Data, Data Mining, India
+Desired Skills and Experience
+hive , algorithms , cuda , data mining , artificial intelligence , sql , big data , natural language processing , machine learning , artificial neural networks , biometrics
+5-6 years of related experience Experience in Credit Cards Analytics
+MBA or Master's degree in Economics, Statistics etc
+BTech or bachelor’s in Computer science or any other stream
+Analytical thinking and problem solving skills
+Good communication skills
+Predictive modeling skills,both traditional and ML techniques
+Knowledge of SAS/Python/R
+Excellent command over data – Data modelling, projections, Analysis, Reporting and showcasing the data.
+Should have basic understanding of payments ecosystem
+Exposure to Data Warehouse (DWH) and Data Query required
+Should have handled customer campaigns
+Exposure to CRM systems required.
+Very good communication skills;
+Ability to coordinate with the channel
+Notice Period - 30 days
+Strong problem-solving skills with an emphasis on product development.
+Experience using statistical computer languages (R, Python, SQl, etc.) to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+We’re looking for someone with 5-7 years of experience manipulating data sets and building statistical models.
+He has a bachelors or Master’s or PHD in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the following software/tools:
+Coding knowledge and experience with several languages: C, C++, Java, JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+Experience querying databases and using statistical computer languages: R, Python, SQl, etc.
+Experience using web services: Redshift, S3, Spark, Digital Ocean, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Core metrics, AdWords, Crimson Hexagon, Facebook Insights, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+Experience in exploratory data analysis, feature design, statistical methods and predictive modelling
+Algorithm selection basis problem statements. Knowledge of regression, classification and recommendation methods.
+Proficient with programming in Python (must have)
+Domain expertise related to BFSI use cases (must have). Experience in lending, collections, credit scoring mechanisms will be an added advantage
+Ability to write code as per production standards making usage of relevant coding standards and best practices.
+Excellent communication skills
+10-14+ years of experience in the realm of marketing analytics and web analytics.
+In-depth knowledge of integrated marketing and CRM disciplines (including primary research, segmentation, targeting, direct marketing, and customer care) – you know this world by heart and you keep pulse with the rapid changes happening within it
+Strong understanding of the digital environment – and expertise in aligning marketing strategies with business needs
+Strong client-relationship skills and experience managing multiple projects across internal teams
+Exceptional communication skills – you’re skilled at interpreting client objectives and clearly articulating proposed strategies and recommendations
+Dynamic and innovative digital analytics specialist with strong marketing analytics exposure, robust analytical skills and significant business acumen.
+Deep understanding of the latest digital and marketing tech trends
+Demonstrated ability to build relationships, both internally and with clients
+Experience managing multiple direct reports and developing a team
+What will be required of you?
+Ability to develop cross channel marketing strategies to improve ROI for clients Implemented analytics for large -scale ecommerce sites
+Adept in Marketing Analytics.
+Develop strategies to help clients activate and optimization their analytics to create a more data-driven culture
+Leverage advanced analytics and statistical tools to explore and analyze data from multiple sources, and elevate the conversation with clients
+Expert in providing analytics consultancy to clients across multiple industries/sectors
+Present insights to clients and account teams in a compelling and relevant story with recommendations backed by robust analysis
+Deep understanding of online marketing disciplines and how they contribute to customer acquisition, conversion and retention
+Demonstrated experience working across multi-disciplinary teams using analytics to drive connected solutions which impact customer outcomes
+Clearly define project deliverables, timelines, measurement strategies and dependencies for the team, internal stakeholders and clients
+Partner with internal stakeholders & clients to identify opportunities for business growth and development across new and existing accounts
+Structuring how to use optimization to improve experiences and performance
+Work closely with account teams to identify opportunities, participate in sales pitches and strengthen SR_ leadership position in digital transformation.
+Collaborate with cross functional teams, including creative, design and technology to shape meaningful customer journeys and customer centric thinking
+Developing conceptual frameworks for client strategies and serving as a key collaborator in developing effective relationship-marketing capabilities
+Aligning marketing productivity with broader business goals and objectives, serving as a partner to the account team
+Keeping up-to-date on all industry best practices and approaches to data analysis & business performance
+Coaching and developing team members to achieve growth and success in their careers
+Lead workshops and engagement sessions to take everyone on the journey of improvement through analysis
+Identify opportunities to enhance or simplify business through use of data & analytics (e.g. re-use of data in operational systems, new advanced tools)
+Be a leader of teams, giving time and direction to ensure that people are growing and developing personally and professionally
+Expert written and verbal communications skills with the ability to translate complex analysis into well-structured and simple to understand presentations and recommendations
+Digital Analytics Practitioner with strong experience in any two of the following-
+Experience across products like Adobe Analytics, Adobe Target, Adobe Audience Manager, WebTrends, CoreMetrics, or Google Analytics.
+Experience in Analytics Optimization with Adobe Target, Optimizely, Maxymizer, SiteSpect etc.
+Ability to lead Analytics Solution Design, plan and implement methods to measure experiences, including Tag Management Solutions like Adobe Dynamic Tag Manager, Tealium, Ensighten, Google Tag Manager
+Candidate with a minimum of 8+ years of relevant IT experience OR 8+ years with advanced/master’s degree or equivalent is required.
+Has current knowledge of industry and business process trends related to Digital Marketing.
+Has domain knowledge of Marketing Function and experience developing/configuring IT solutions for key processes within Digital Marketing.
+Experience with Agile methodologies, including user story creation, backlog prioritization, coordination with scrum teams and UAT is required.
+Quickly learns business and complex processes, along with ability to understand and work across multiple business domains in support of projects.
+Strong communication and critical thinking skills.
+Ability to partner with development teams.
+Experience implementing Web Sites, digital marketing campaigns, social marketing campaigns, advanced analytics, eCommerce, digital asset management
+Experience working with cross-regional/global IT and Cross-Functional Teams
+Must have excellent communication skills (written and oral).
+Must be skilled in building strong cross-functional partnerships.
+Experience with leading multi-company teams and global efforts are preferred.
+Demonstrated ability for a rapid understanding of business processes, and their technology implications.
+Knowledge of enterprise architecture and development methodologies preferred
+Proven experience in best practices in: Digital Marketing (Web, Digital Asset Management), eDetailing, Demand Forecasting, Brand Management, Product Pricing, Channel Management, Marketing Innovation and Marketing Insights/Analytics is preferred.
+Proven experience in best practices in: Digital Marketing (Web,Digital Asset Management),eDetailing,Demand Forecasting,Brand Management,Product Pricing,Channel Management,Marketing Innovation and Marketing Insights / Analytics is preferred
+Must be skilled in building strong cross-functional partnerships
+Experience with leading multi-company teams and global efforts are preferred
+Work and lead (where assigned) with cross-functional projects using advanced data analysis techniques to discover insights that will guide strategic decisions and uncover optimization opportunities
+Develop and maintain a database, data models, reporting systems, data automation systems, dashboards and performance metrics support that support key business decisions
+Manage and optimize processes for data intake, validation, mining and engineering.
+Examine, interpret and communicate the results of analytical initiatives to relevant stakeholders. Anticipate future demands of initiatives related to people, technology, budget and business within your department and design/implement solutions to meet the needs
+People with 4-6 years of experience in monitoring, managing, manipulating and drawing insights. The right candidate should also be proficient and experienced with the following tools/programs:
+Strong programming skills with querying languages like SQL, SAS, R with ability to perform effective querying involving multiple tables and subqueries
+Experience with data visualization tools: Tableau, Raw, chart.js, etc
+Experience with Excel, Word, and PowerPoint
+Experience and knowledge of statistical modeling techniques:
+GLM multiple regression
+Logistic regression
+Log-linear regression
+Variable selection
+Working knowledge of data mining principles: collecting and mapping data from multiple data systems on-premises and cloud-based data sources.
+Experience in using analytical concepts and statistical techniques: hypothesis development, designing tests/experiments, analyzing data, drawing conclusions, and developing actionable recommendations for business units
+Data Modelling
+Data Visualisation
+Data Analytics and Insights
+Data Management and Transformation
+AI - Deep and Machine Learning
+Ideally 3-5 years of business analytics experience.
+Specialist in use of SQL, Excel and one or more of the statistical tools like R-Mandatory, SAS, VBA for data manipulation and statistical analysis purposes.
+Strong problem solving, quantitative and analytical abilities. Specialist in manipulating and analyzing mixed, high- volume, high-dimensionality data from varying sources.
+Exposure to statistical techniques like Predictive Modelling, Regression, Cluster Analysis, Factor Analysis, hypothesis testing, exploratory analysis etc. would be a plus.
+Excellent analytical skills - ability to understand and interpret data within the context of the business – solve problems and distil data into impactful recommendations.
+Good ability to plan and handle processes, people and projects simultaneously.
+Proficiency in Spoken and Written English, Punctual and Meticulous.
+Education: BE/B-Tech/ME/M-Tech/MBA in Computer Science, Computer Engineering or equivalent or related technical field (preferably IITs/Ns/IIITs/BITs/IIM/FMS/ISB).
+Domain Experience: Gaming, E-Commerce, or any B2C experience
+Deep understanding of big data platforms such as Google, Azure, etc.
+Good experience in data engineering with Relational Database Management System (RDBMS) and SQL
+Hands on experience in solving text and image analytics use cases
+Ability in designing distributed and parallelized algorithms
+Proficiency in a Unix/Linux environment for automating processes with shell scripting
+Tools: Excel, SQL, BI Tools like Tableau/Microstrategy, Project Management tools - Slack/JIRA/Asana/Trello
+Experience working with, processing and managing large data sets (multi TB scale) is preferred
+Experience in real-time stream processing is a plus
+Keep continuously up-to-date on all assigned technologies
+Strong fundamentals and hands on knowledge of Machine learning, Time Series Analysis, AI/Deep Learning, Optimization/Operations research, Decision Sciences
+Excellent knowledge of data mining / predictive modeling tools and libraries such as ScikitLearn, MLlib, Tensorflow, Keras etc.
+Minimum 2 years of programming experience in R/ Python is a must
+Minimum 2 years of experience in implementing solution pipelines for machine learning based products/services
+Strong understanding and implementation and solution architecting of predictive / analytical modelling techniques, theories, principles, and practices
+Experience: 2-5 years
+Advanced degree in Computer Science, Electrical Engineering, Mathematics and Computing, Operations Research from top tier institutes.
+Excellent communication, verbal and written skills
+Strong fundamentals and hands on knowledge of Machine learning, Time Series Analysis, AI/Deep Learning, Optimization/Operations research, Decision Sciences
+Excellent knowledge of data mining / predictive modeling tools and libraries such as ScikitLearn, MLlib, Tensorflow, Keras etc.
+Minimum 2 years of programming experience in R/ Python is a must
+Minimum 2 years of experience in implementing solution pipelines for machine learning based products/services
+Strong understanding and implementation and solution architecture of predictive / analytical modelling techniques, theories, principles, and practices
+Domain Experience: Gaming, E-Commerce, or any B2C experience
+Deep understanding of big data platforms such as Google, Azure, etc.
+Good experience in data engineering with Relational Database Management System (RDBMS) and SQL
+Hands on experience in solving text and image analytics use cases
+Ability in designing distributed and parallelized algorithms
+Proficiency in a Unix/Linux environment for automating processes with shell scripting
+Tools: Excel, SQL, BI Tools like Tableau/Microstrategy, Project Management tools - Slack/JIRA/Asana/Trello
+Experience working with, processing and managing large data sets (multi TB scale) is preferred
+Experience in real-time stream processing is a plus
+Keep continuously up-to-date on all assigned technologies
+Data Mining,Machine Learning,Python,R
+High growth environment : How fast you grow within the company into leadership positions with greater responsibility is only dependent on your performance and contributions;
+Semi-annual performance management and promotion cycles enabling fast track to leadership responsibility
+Unparalleled quality of work : Exposure to CXO level at the clients enabling to hone your capabilities; Solve interesting and hard problems across multiple industries and domains that keeps you always excited and motivated; Integrated technology and business teams that offers a strong foundation for building a sustainable data science culture
+Fun culture and peer group : Non-bureaucratic and fun working environment
+Strong peer environment that will challenge you and accelerate your learning curve
+3-5 years of experience in applying concepts in Data Science, Machine Learning, Algorithm development, Advanced Computing or Statistical Modeling to solve real-world problems
+Practical experience in at least one of the following programming languages : R or Python
+Strong modeling skills and ability to build practical models using advanced algorithms such as Random Forests, SVM, Neural Networks
+Familiarity with algorithms in recommendation systems, NLP or big data frameworks such as Hadoop/Spark is a bonus
+Strong independent and creative research skills necessary to keep up with the latest trends in advanced analytics
+Undergraduate degree from premier institutions such as IIT, BITS, NIT etc.
+Interested in working in a high-growth environment where your analysis drives important decisions
+Strong communication skills enabling you to clearly communicate your thoughts/work to the client or internal teams
+logistic regression , advanced analytics , sas stat , data mining , business solutions , linear regression , spss , base sas , 
+cluster analysis , arima , sas , business analytics , factor analysis , statistician , consultant , statistical analysis
+Experience in NLP packagesRequired Skills
+Excellent programming skills in Java and Python, Spark, Hadoop,- Visualization
+ExtJS, Kibana- Statistics, Probability, ML, R- Experience in working with large scale distributed computing platforms such as Hadoop, Spark and Storm- Excellent communication, analytical and problem solving skills- Extreme attention to details and strong organization skillsPreferred Skills
+Knowledge of R, NLP, Python- Proficiency in Statistics, Probability Theory- Ecommerce experienceRelevant experience in developing platforms for large scale data processing and implementing machine and 
+deep learning algorithms.Experience in in area(s) of statistical analysis/ modeling/ text mining/sentiment analysis/supervised and unsupervised learning
+data scientist , data science , senior data scientist , java , r , nlp , Data Modeling , ExtJS , Spark , Python
+Experience working with TensorFlow, Spark MLLib, PySpark and time series analysis
+Experience in AWS or Azure cloud infrastructure
+Experience in building APIs
+Experience in some data visualisation tools
+Strong experience in Python, Scikit Learn, OpenCV, NumPy/SciPy etc
+Experience in working with multi-dimensional data
+Experience with large scale distributed databases and computing systems like Hadoop, HDInsight or DataBricks
+Strong passion for understanding key business problems, bringing together a team to understand data/ instrumentation needs and/or mine through data to unearth deep insights into customer experiences
+Proven capability to deliver end-to-end analyses by asking the right questions, extracting data, and building predictive models to ensure actionable results.
+Expertise in predictive analytics/statistical modeling/data mining/machine learning algorithms and techniques (classification, clustering, regression, multivariate testing)
+Excellent communication & interpersonal skills with an ability to communicate ideas.
+MS in Computer Science, Math, Physics, or equivalent education/professional experience is required.
+10-12 years of total IT experience with 5+ years of managing and leading data science teams with demonstrable experience
+Deep experience in machine learning with Spark and Azure Machine Learning and Cognitive Services.
+Azure Cloud experience required. Azure Data Factory experience preferred.
+Strong experience in DNN models using Tensorflow v1.8 above, Keras, Pytorch
+Experience with sequence modeling using RNNs/LSTMs is must
+Strong experience in at least one database technology (i.e. Hive, PrestoDb etc.)
+Experience with one or more web analytics tools (Google Analytics, etc.)
+Strong experience in at least one programming language (i.e. Python, R, C, C++ is plus)
+Experience working with different query languages (i.e. PL-SQL, T-SQL)
+Understanding and experience working with cloud infrastructure services like Azure and Amazon Web Services. Azure preferred.
+Experience working with code repositories and continuous integration (i.e. Git, Jenkins, etc.)
+Strong passion for understanding key business problems, bringing together the team to understand data/ instrumentation needs and/or mine through data to unearth deep insights into customer experiences
+Excellent communication & interpersonal skills with an ability to communicate ideas, insights and complicated analysis effectively at all organizational levels, include engineering leadership
+Experience with databases; for both querying and scripting. PostgreSQL/Amazon Redshift/Oracle SQL is a must, Python will be a nice to have.
+Ability to utilize data from Google Analytics, Shopify, Facebook, Amazon, email marketing (Hubspot), other social media and other online marketing data sources to gather data and analyze marketing campaign performance. Experience with Clevertap is a strong plus.
+Experience in data mining, statistics, and predictive modeling methodologies, ideally with experience in applying them in online digital marketing.
+Comfort with A/B testing and experiment design
+Experience with reporting platforms like Tableau
+Be an Excel expert (Modeling, pivot tables, advanced formulas)
+Experience measuring offline campaigns and brand performance a strong plus.
+Should have 3-5 years of working experience in analytics, data mining, and/or predictive modelling, and data interpretation.
+Advanced degree in Machine Learning, Computer Science, Engineering, Physics, Statistics, Applied Math, or other quantitative fields.
+Proven track record in modifying and applying advanced algorithms to address practical problems.
+Confident interacting with business peers to understand and identify use case, with a strong ability to articulate solutions and present them to business partners.
+Strong coding skills in one of the following: Python, R, Spark, or equivalent.
+Knowledge of NLP/Text mining techniques and related open-source tools.
+Hands-on experience implementing machine learning and data analytics solutions.
+Outstanding collaboration and communication skills. Ability to effectively collaborate with distributed.
+Team, or with different kinds of stakeholders like business teams, product teams.
+Good to have an understanding of Geospatial Datasets and processing.
+Enthusiasm to understand business acumen/domain knowledge/processes.
+11 + years of experience in analytics delivery and business consulting with an emphasis on the Payments industry with at least 5+ years of leadership experience
+Experience in design and review of new solution concepts and leading the delivery of high-impact analytics solutions and programs for global clients.
+Knowledge of advanced analytics and machine learning techniques such as segmentation/clustering, recommendation engines, propensity models, and forecasting to drive growth throughout the customer lifecycle. 
+Should be able to evaluate and bring in new advanced techniques to enhance the value-add for clients
+Should be able to apply domain knowledge to functional areas like market size estimation, business growth strategy, impact of govt policies on product, strategic revenue management, marketing effectiveness
+Must have excellent project/program management skills and have experience managing multiple work streams and projects at one time
+Have business acumen to manage revenues profitably and meet financial goals consistently. Able to quantify business value for clients and create win-win commercial propositions.
+Good thought leadership & ability to structure & solve business problems, innovating, where required
+Outstanding presentation and communication skills (Oral and written) with the ability to inspire others to make informed decisions.
+Must have the ability to adapt to changing business priorities in a fast-paced business environment
+Data mining and Insights
+Trend Analysis , forecasting and pattern recognition
+Find opportunities in the data and able to communicate to the partners
+Consult with partners to define issues/information needs
+Present findings to multiple levels of management
+Ensure that analyses are delivered on time, while surpassing partner expectations
+Ensure partner transparency throughout the life of the project
+Proactively seek opportunities to increase the value of analysis
+Strong oral and written communication and consultative skills
+Tableau, Power BI, Shiny, Dash, HTML5
+Provide exploratory data analysis using Python/R/SAS / SQL
+Experience with Databases like oracle , Teradata, Sql server
+Advance Excel skills
+Data integration and clean up data for the usage
+Experience with structured data and semi-structured text or Excel files
+Sql ,Teradata, Hadoop, Spark
+Data Engineering
+Exploratory Data analysis
+Good to have skills: Tableau,SQL (Structured Query Language),R Language and Environment,Big Data Analytics,Good communication skills,Effectively collaboration and team work,Analytic skills
+In this role you are required to do analysis and solving of moderately complex problems. May create new solutions, leveraging and,
+where needed, adapting existing methods and procedures. The person would require understanding of the strategic direction set by senior management as it relates to team goals. 
+Primary upward interaction is with direct supervisor. May interact with peers and/or management levels at a client and/or within Accenture. Guidance would be provided when determining methods and procedures on new assignments. 
+Decisions made by you will often impact the team in which they reside. Individual would manage small teams and/or work efforts (if in an individual contributor role) at a client or within Accenture. 
+Please note that this role may require you to work in rotational shifts.
+You will be aligned with our Insights & Intelligence vertical and help us generate insights by leveraging different analytics tools and techniques to deliver value to our clients. 
+You will also help us apply your expertise in building world class solutions, conquering the business problems, addressing technical challenges using AI Platforms and technologies. 
+You will be required to utilize the existing frameworks, standards, patterns to create architectural foundation and services necessary for AI applications that scale from multi-user to enterprise class and demonstrate self as an expert by actively blogging, 
+publishing research papers and creating awareness in this emerging area.
+In the Data Science team, you will manage and analyze data in order to build data driven business insights and high impact 
+data models to generate significant business value. This will involve creating models and processes to collect, distill and interpret data with a view to aid more informed decision making, 
+examine and explore data from multiple sources with the goal of discovering insights which in turn can provide competitive advantage for our client.
+In Machine Learning, you will be responsible for identifying the problem to which of a set of categories a new observation belongs, on the basis of a training set of data 
+containing observations whose category membership is known.The basic premise of machine learning is to build algorithms that can receive input data and use statistical analysis to predict an output while updating outputs as new data becomes available.
+Good to have skills: Tableau,SQL (Structured Query Language),R Language and Environment,Big Data Analytics,Good communication skills,Effectively collaboration and team work,Analytic skills
+4+ years of Industry experience primarily related to Unstructured Text Data and NLP (PhD work and internships will be considered if they are related to unstructured text in lieu of industry experience but not more than 2 years will be accounted towards industry experience)
+Develop Natural Language Medical/Healthcare documents comprehension related products to support Evolent Health business objectives, products and improve processing efficiency, reducing overall healthcare costs
+Gather external data sets; build synthetic data and label data sets as per the needs for NLP/NLR/NLU
+Apply expert software engineering skills to build Natural Language products to improve automation and improve user experiences leveraging unstructured data storage, Entity Recognition, POS Tagging, ontologies, taxonomies, 
+data mining, information retrieval techniques, machine learning approach, distributed and cloud computing platforms
+Own the Natural Language and Text Mining solutions — from platforms to systems for model training, versioning, deploying, storage and testing models with creating real time feedback loops to fully automated services
+Work closely and collaborate with Data Scientists, Machine Learning engineers, IT teams and Business stakeholders spread out across various locations in US and India to achieve business goals
+Provide training to other Data Scientist and Machine Learning Engineers in your speciality
+Strong understanding of mathematical concepts including but not limited to linear algebra, Advanced calculus, partial differential equations and statistics including Bayesian approaches
+Strong programming experience including understanding of concepts in data structures, algorithms, compression techniques, high performance computing, distributed computing, and various computer architecture
+Good understanding and experience with traditional data science approaches like sampling techniques, feature engineering, classification and regressions, SVM, trees, model evaluations
+Additional course work, projects, research participation and/or publications in Natural Language processing, reasoning and understanding, information retrieval, text mining, search, computational linguistics, ontologies, semantics
+Experience with developing and deploying products in production with experience in two or more of the following languages (Python, C++, Java, Scala) (4+ years)
+Strong Unix/Linux background and experience with at least one of the following cloud vendors like AWS, Azure, and Google for 2+ years
+Hands on experience with one or more of high-performance computing and distributed computing like Spark, Dask, Hadoop, CUDA distributed GPU (2+ years)
+Thorough understanding of deep learning architectures and hands on experience with one or more frameworks like tensorflow, pytorch, keras (2+ years)
+Hands on experience with libraries and tools like Spacy, NLTK, Stanford core NLP, Genism, johnsnowlabs for 2+ years
+Understanding business use cases and be able to translate them to team with a vision on how to implement
+Identify enhancements and build best practices that can help to improve the productivity of the team.
+Data Science,Data Scientist,Data Management,Statistical Modeling,SQL,Python,Data Visualization,Statistics,Model Validation,Machine Learning
+Solid skills in Machine Learning especially techniques such as Linear/Logistic Regression, Bagging, Bayesian model, Neural Networks, Random forest, Gradient boosting, Hyperparameter optimization techniques etc.
+Demonstrable skills and track record (Github, open source etc.) in the use of current state of the art machine learning frameworks such as Keras, TensorFlow, Scikit-Learn, H2o, Spark etc. in developing ML/AI applications
+Programming skills in various languages (C++, Scala, Java, R) with proficiency in Python and/or C++
+Experience of design, building and deployment of ML/NLP Solutions
+Proficient in Python
+Experience in NLP tools like Gensim, spacy, Stanford NLP
+Hands on with Deep learning frameworks like Keras, Pytorch, Tensorflow
+Experience automating data within Tableau/Qlik/ggplot/Shiny to tell a story through interactive visualizations
+Build Solutions that identify intent and other features from user comments, chat transcript and other unstructured text data.
+Design NLP applications
+Identify appropriate annotated datasets for Supervised Learning methods
+Use effective text representations to transform natural language into useful features
+Find and implement the right algorithms and tools for NLP tasks
+Train the developed model and run evaluation experiments
+Perform statistical analysis of results and refine models
+Basic logical pseudo code writing
+As a NLP Data Scientist in the Consumer analytics team, you will be building solutions that require analyzing and transforming natural language data into useful features using NLP techniques. 
+To succeed in this role, you should possess outstanding skills in statistical analysis, machine learning methods and text representation techniques.
+Quick learner and ability to work in dynamic work environment
+
+Team player and comfortable interacting with people from multiple disciplines
+
+Strong focus on Impact & ownership
+
+Strong - quantitative abilities, problem-solving thinking and analysis skills
+
+Expert knowledge of data manipulation language such as SQL to design, review, optimise and troubleshoot data manipulation (SQL) processes comfortably
+
+Expert knowledge of modeling tools such as R, Python, SAS, SPSS including knowledge of pros and cons / capabilities of such tools
+
+Applied knowledge of most commonly used techniques as well as many new / upcoming / niche analytics techniques
+
+Understands pros and cons of each technique and recommends suitable technique(s) for each analytics problem with high degree of confidence
+
+Established expertise in designing new dashboards, identifying the right metrics, layout; displays proficiency in building dashboards on UDP and Tableau using best practices and intuitive visualization
+an understanding of process mining techniques such as alpha-algorithm, heuristics mining etc.
+process modelling and design background
+good re-engineering background
+data analytics background
+strong stakeholder management skills
+lean and six sigma certification/s
+10 - 12 years of relevant experience
+leverage the existing process intelligence tools such as Abby Timeline/Signavio (Not required but will strengthen your application
+Solid skills in Machine Learning especially techniques such as Linear/Logistic Regression, Bagging, Bayesian model, Neural Networks, Random forest, Gradient boosting, Hyperparameter optimization techniques etc.
+Demonstrable skills and track record (Github, open source etc.) in the use of current state of the art machine learning frameworks such as Keras, TensorFlow, Scikit-Learn, H2o, Spark etc. in developing ML/AI applications
+Programming skills in various languages (C++, Scala, Java, R) with proficiency in Python and/or C++
+Excellent communication (verbal and written) and presentation skills
+Experience with Project Management, Agile and Waterfall techniques
+Strong critical thinking, decision-making and prioritization skills
+Ability to prioritize, influence and work with cross-functional global teams
+Experience with Informatica Power Center, Analysis and Data Quality tools
+Six Sigma Green Belt preferred
+Bachelor’s degree in Computer Science, Information Technology or equivalent
+5+ years of data integration and migration experience for large scale projects
+3+ years of ETL applications (Informatica) or other data migration tools
+Strong functional knowledge in business operations related to ERP applications with a focus on data migration, data quality, and data governance
+Manage overall delivery of data migration from legacy to core ERP applications working with project managers, key business and data stakeholders
+
+Lead a team of data leads and analysts to drive data migration deliverables including timely status reporting for ERP deployments, projects and enhancements
+Define data strategies to enhance data migration methodologies and processes leveraging automation and AI/ML technologies
+
+Enforce standards and guidelines related to the design, construction, testing and deployment activities as established by departmental and organizational standard
+Partner with the Enterprise Information Management/Data Management organization to understand business requirements and drive solution delivery to meet data quality standards
+Work with co-source partners to ensure data deliverables are met with quality and on schedule
+Manage resource pool and budget adherence to ensure alignment for deployments, projects and enhancement initiatives
+Manage and direct activities related to analysis, design and implementation of technical data management solutions
+Lead continuous improvement in data migration processes, tools, system capabilities and methodologies to refine and innovate
+Work with cross functional teams to drive change management to integrate new automation capabilities into existing methodology
+Responsibilities :
+
+- Execute quantitative analyses that translate data into actionable insights. Provide analytical and data-driven decision- making support for key projects.
+
+- Develop new insights and analyses that inform decisions and help us continue to improve our products for customers.
+
+- Provide reporting and performance monitoring to multiple product lines in Ola financial services using data drawn from diverse sources.
+
+Required Skills and Experience :
+
+- 3 to 5 years of experience performing quantitative/ statistical consumer behavior analysis, preferably for an internet or technology company.
+
+- Comfortable manipulating, transforming, and analyzing complex, high-volume, high-dimensional data from varying sources.
+
+- Excellent presentation and communication skills; comfortable explaining technical topics to non-technical users.
+
+- Good client management skills with a solid grasp of both technical and business perspectives.
+
+- Strong hands-on experience with SQL, data warehousing, data modeling, dashboarding, and reporting, involving very large data sets and multiple data sources, with the ability to interpret data and produce significant insights.
+
+- Extensive experience doing funnel analysis, cohort analysis, customer journey analysis, A/B tests, and readouts.
+
+- Experience automating analysis using analytics packages in languages like R or Python
+
+- Demonstrable ability to work in a dynamic environment, and to meet changing deadlines and priorities on multiple simultaneous projects.
+
+- Enjoy working in both individual and team settings
+
+- Bachelor's/PG in Math, Statistics, Comp Sci, Engineering, Economics or other technical field required
+Notice Period : Immediate/ 30 Days
+
+- Proven hands-on experience in model development and validation including SR11-7, OCC-12 etc.
+
+- Solid conceptual knowledge on valuations, risk quantification, XVA, simulations, stress/scenario generation, statistical modelling
+
+- Language skills (such as on R and/or Python) is a pre-requirement
+
+- Academic qualifications - Post graduate degree (Mathematics/Statistics/Financial Re-engineering) with CFA/FRM preferable; or qualified CFA/FRM with a Graduate Degree; or Part qualified actuary (qualified in minimum of 9 papers or equivalent)
+
+- Work location - Mumbai (but the candidate should be open to travelling / re-location)
+Paytm - Senior Business Analyst
+
+- Hands on exp working in Data Science projects. Should have exp developing Statistical
+
+- Machine learning models using technologies like SAS, R.Python, Spark, Aster etc.
+
+- Work closely with data engineers, BI and UI specialists and deliver top notch analytical solution for the fintech.
+
+- Define business problem and translate it into analytical problem
+
+- Excellent understanding of data wrangling and preparation techniques both in single and multi-threaded systems in Pandas, Numpy, RDD and spark data-frame
+
+- Experience implementing machine learning algorithms such as support vector machines, decision trees, logistic regression, clustering, neural networks, graphical models - NLP, Text mining, Image/Voice processing, digital analytics, deep learning, machine learning
+Roles and Responsibilities :
+
+
+
+- Would be leading a team of 2 direct and around 14 one level down reportees.
+
+
+
+Key responsibilities would include :
+
+
+
+- Leading the P&L for the Pampers hospital selling team in India
+
+
+
+- Increasing direct coverage of hospitals
+
+
+
+- Growing Pampers sales in the hospital channel 
+
+
+
+- Career management for direct and indirect reportees
+
+
+
+Qualifications :
+
+
+
+Requirements (skills/experiences) for the role:
+
+
+
+- Minimum 3-4 years experience in FMCG/Pharmaceutical sales/trade marketing
+
+
+
+- Strong on communication, writing, and data analysis skills
+
+
+
+- Previous experience in key account management/ institutional selling
+
+
+
+- Basic understanding of financials and P&L management (ROI analysis, cost-benefit analysis)
+
+- Min 12+ years of relevant Marketing experience, primarily in B2B software; Retail industry background is preferred
+
+- Strong global campaign strategy, development and execution experience. Prior experience planning and executing campaigns for customer and partner audiences.
+
+- Demonstrated success creating and executing global, multichannel demand generation campaigns and programs.
+
+- Strengths in online marketing is a must, including social media, ABM and email marketing
+
+- Meticulous attention to detail - ability to quickly understand overall business objectives, create a well-aligned marketing strategy and execution plans with clearly defined metrics and KPIs.
+
+- Strong analytical skills, and proven track record in making data-driven decisions to continually optimize performance and determine future investments.
+
+- Experience identifying the right portfolio of agencies and managing day-to-day relationships.
+
+- Exceptional ability to lead, influence and work across organizational boundaries with a strong track record of cross-functional collaboration.
+
+- Ability to operate and excel at strategic as well as tactical levels. Willingness to roll up sleeves to get the job done.
+
+- Experience attracting, hiring, retaining, and developing high-performing teams.
+
+- Excellent communication and facilitation skills, both at the executive level and with peers and cross-functional teams.
+
+- Collaborate with sales and marketing leadership to establish priorities, pipeline goals and targets, and develop strategic and tactical plans to deliver on those targets.
+
+- Responsible for the planning, design and execution of customer, channel, and alliance partner campaigns, to drive customer acquisition and pipeline growth globally.
+
+- Partner closely with Product Marketing and Field marketing teams to create detailed plans and metrics for campaigns/programs/tactics by region and by segment.
+
+- Own metrics and reporting for all campaigns including lead generation, pipeline contribution and awareness metrics.
+
+- Define and execute programs and tactics to support ABM, OLM initiatives.
+
+- Forecast, measure, analyze and report on the impact of campaign and demand activities on sales pipeline, revenue and demand funnel velocity.
+
+- Maintain a data-first approach to continually measure and optimize performance, improve conversion and ROI.
+
+- Identify the right set of agency partners, manage relationships, and ensure performance.
+
+- Help lead, recruit, motivate, and mentor a team of high-performing, data-driven marketers.
+- Develop the Sales & Distribution (Go-To-Market) Strategy for the sales organization in conjunction with regional teams to enable best-in-class Market & Outlet coverage & Wtd. Distribution for TGBL Brands. Constantly engage with the field teams to ensure timely and quality execution of the same
+
+- Develop & Implement the Sell-Out strategy -Create compelling brand connections with shoppers at the point of purchase: Deliver best-in-class brand campaigns at the point of purchase. Activate relevant / multiple touch-points in store so that the brand engages and wins with target shoppers. This requires:
+
+- Work in sync with brand teams & agencies to create powerful activation platforms.
+
+- Lead by innovation to increase brand prominence amongst target shoppers.
+
+- Develop differentiated Point of Sales Material by channel that is clutter-breaking and gives a synergistic - look & feel- to a campaign. Develop a POP vision that drives brand & category messaging and brings alive brand imagery in store.
+
+- Design programs and oversee plans that motivate or create excitement in sales organization including distributor sales team (i.e. sales off-site, sales launch, incentives for a Sales team, conventions, and team building activities)
+
+- Benchmark best practices in Industry and competition and constantly Innovate to improve Sales systems and processes systems so as to enable higher efficiency and productivity. Leverage technology solutions to further enhance the same.
+
+- Drive Productivity improvement initiatives to facilitate higher productivity at front line through Measurement & Incentivization of relevant metrics (Strategy for Sell-In)
+
+- Develop and Implement the Top Outlet strategy for the organization both in Grocery Retail, SAMT and Wholesale.
+
+- Plan, Control and Efficiently Deploy budgets for brand building activities:
+
+- Plan the Shopper Marketing Budget for the category/brands for all channels - Monitor and share rolling FC on all A&P spend pools.
+
+- Operate within planned budgets and judiciously invest in activities to drive brand growth.
+
+- New product launch / Exclusive SKU's for the channel: Build robust plans for all NPD's / exclusive Channel SKU's with key focus on retail planning basis
+
+- Business Intelligence/Analytics: Investigate & integrate relevant facts and insights (Shopper, Customer & Channel) to identify Category/Brand growth opportunities
+
+Desired Experience Level & Qualification :
+
+
+
+- Experience of working in an organization where Sales Automation and Analytics is matured
+
+- Experience in GT sales is must and exposure to Shopper marketing role is desirable.
+
+- MBA with 5-10 years of relevant work experience in reputed FMCG organisations
+Head of Analytics - Business Intelligence/Informatica
+
+- Should have experience in setting up practice, strong delivery, technical architecture of Business Intelligence technologies.
+
+- Will be Accountable for architecture, delivery and building Data Analytics Service.
+
+- Should be responsible for overall architecture and design of key BI projects
+
+- Must have experience in technical architecture as well as functional delivery
+
+- Must have experience in Delivering E2E implementation of Business Intelligence (BI) technologies projects, primarily on MS BI, Cognos, BO and Informatica.
+
+- Should have exp in HR and Finance Domain
+
+- Candidate will be able to Lead as Solution architecture, Designing and Project execution along with Project Management Activities like Scope, planning, Risk, Budget, Resource, Change Management and Defect Prevention activities
+
+- Will be able to Create Project Plans and managing the same for start to end
+
+Reporting Skills : SSRS, Business objects XI R2, Crystal Reports, Cognos 8.4
+
+Database Skills :
+
+- SQL Server 2000/ 2005/2008/2014, DB2
+
+- ETL Tools
+
+- Informatica 8.1, SSIS
+
+- Project Management Tools
+
+- MS Project
+
+Other skills : CMMI 5, Erwin, Visio, Appdynamics, Soasta and SQL trace
+
+Certification/Trainings :
+
+- Big Data introduction
+ Cultivate good work relationships with business, user experience, technology, and operations teams to successfully capture business requirements from various sources
+
+- Synthesize complex information into simple, high impact messages
+
+- Ensure consistency and sanity of data models across capabilities.
+
+Technical skills/ Tools requirement :
+
+Essential :
+
+
+- Proficient in Agile definition and development methodology and roadmap management
+
+- Knowledgeable about marketing key performance indicators specifically for B2B or professional services organizations
+
+- Skilled in digital marketing tools and concepts such as Sprinklr, Marketo, Adobe Experience Manager, Adobe Target, social listening and tag management
+
+- Maths and statistics affinity and knowledge with the ability to present advanced analytics methods (segmentation, cluster analysis etc.)
+
+- A strong team player who is comfortable working collaboratively, virtually and independently
+
+Other skills :
+
+
+
+Essential :
+
+- Excellent communication, presentation and networking skills with the capability to effectively manage and influence leaders as well as a broad range of internal and client facing professionals, both technical and non-technical audiences
+
+- Project and program management and delivery skills
+
+- Ability to resolve complex issues with a focus on the user experience
+
+- Competent to thrive in a fast-paced work environment that requires strong problem-solving skills and independent self-direction, coupled with an aptitude for team collaboration and open communication
+
+- Ability to work effectively with IT; navigate their processes and teams to maintain and develop systems and tools
+
+- Enthusiastic and self-motivated, with the ability to lead projects proactively
+
+- The BMC Analytics Product Owner will manage - under the supervision of the BMC Analytics Leader - the further implementation of a robust data and analytics capability that measures the success of marketing initiatives and provides visibility of the impact/value of the investments to the marketing leadership and the business.
+
+Essential job functions :
+
+- Have strong understanding of the marketing and communication technology stack and their analytics and reporting capabilities, including tag management, audience segmentation and targeting, optimization and personalization
+
+- Introduce new and better ways of working with the implementation of automated reporting, process improvements and a customer-focused emphasis on strategy
+
+- Develop, implement, and iterate on the product roadmap and own project backlogs while managing projects backlog and agile development processes
+
+- Contribute to the integration of new technology platforms data in our reporting
+
+- Use Adobe Analytics and other products technical updates for analytics purpose, use vendor technology, follow-up on CRM sources and translate data into user stories
+
+- Coordinate requirements walk-through and signoffs, verify with user representatives/stakeholders that user stories and user journeys accurately portray specific business needs
+
+- Educate stakeholders about best practices in digital reporting landscape
+
+- Manage effectively tight deadlines and multiple priorities in dynamic, fast-paced, agile environment
+- Predictive/Descriptive modelling skills (logistic regression, linear regression, Decision tree, Clustering etc.)
+
+- Track record of coming up with new ideas in machine learning, as demonstrated by one or more projects
+
+- Past experience in creating high-performance implementations of Machine/deep learning algorithms
+
+- Ability to own the problem life cycle - defining business problem, feature engineering and extraction from large datasets, exploring right statistical or ML methods, presenting to business stakeholders, and working with IT to deploy the models
+
+- Comfort in Structured and unstructured data handling
+
+- Good understanding of linear algebra, calculus, and statistics
+
+- Expertise in Python, R, SQL, Angular JS,JSON
+
+- Must have model deployment expertise
+
+Good To have Skills -
+
+- Data management skills (Knowledge of data conversion strategy, capturing data, creating source to target definitions for ETL/ data flow process, data quality, and database management, data modelling, data integrity QA/QC)
+
+- Design, develop, validate and optimize ML kernels and Algorithms for Deep Learning accelerators
+
+- Validation and bench marking of kernels and algorithms for various topologies
+
+- Insurance industry understanding
+
+Profile
+
+- Should be from Tier 1 - Colleges for Quant discipline ( Engineering, Econometrics, Statistics, Mathematics ), and should have 5-10 years of relevant experience
+
+- Good Communication skills as may need to interact frequently with Senior Management / Functional stakeholdrs
+
+- Excitement to scale up experiments
+#Analytics #Machine Learning #Data Science #Predictive Modeling #SQL #Python #Data Management #Statistics #Data Modeling #Statistical Modeling
+The candidate must be a highly-motivated individual and must be able to handle a high volume of work, be able to deal with and work through ambiguity, be flexible enough to shift workload in accordance with changing priorities.
+
+- Requires minimum 3 - 6 years of Data Integration and Dashboard/Reporting development experience
+
+- High level of expertise in SQL, Data Warehousing & Business Intelligence concepts.
+
+- Has experience with Data analytics to understand why, what, and how to report the data
+
+- Proven experience with the assessment of business process design and the identification of key risk and control points
+
+- Business / Risk Reporting experience is a must have
+
+- Demonstrated experience in BI tools like Alteryx,Tableau and Qlikview
+
+- Working knowledge on Data Management/Data Quality Rules development a plus
+
+- Hands-on experience in framing up complex SQL Queries
+
+- Working knowledge with Business Objects/Cognos experience preferred
+
+- Experience in VBA/Advanced Excel, Access, PowerShell will be a plus
+
+- Hands-on experience in preparing/integrating the datasets to match to the reporting requirements
+
+- Strong analytical, project & change management skills
+
+- Experience with the RCSA lifecycle a plus
+
+- Bachelor's degree required; concentration in IT, CS, Engineering and Statistical Sciences preferred
+- Control Management Team is responsible for conducting the Controls Evaluation, and performing other activities related to the overall Control and Operation Risk Environment (CORE), SOX & CCAP Program. Candidate should play a key role in Tableau and Qlikview Dashboard development activities and work with team to integrate data from multiple sources. 
+
+
+
+- Candidate will be leading the conversations with multiple Key stakeholders to draft the business requirements and develop actionable Dashboards to assist with the RCSA transition to Risk Assessment program heavily utilizing metrics and KPI/KRI's to drive the program.
+
+- This will include both BAU and Ad-hoc reporting as needed. Candidate is expected to design complex SQL queries to frame up the data set for the Dashboards and work with CCB Risk Control teams to automate the data sources for the dashboard.
+
+- Candidate will be responsible for assisting leadership with the integration and workload activities for the India based team and will be required to engage XLOB stakeholders in coordinating timelines and report/Dashboard deliveries in accordance with the Risk Assessment Program.
+
+The successful candidate will specifically:
+
+- Work with Stateside Control partners to gather the requirements, develop Prototype of Dashboard matching the needs and build dashboards using Tableau and Qlikview
+
+- Create and maintain user acceptance test cases and Data Validation test scripts
+
+- Develop VBA Scripts or implement other best practices to automate the manual process/steps involved in Data Sources integration for the Dashboard.
+
+- Partner with Stateside team and India lead, to prioritize the Dashboard requirements and develop a schedule to meet the deadline
+
+- Assist in defining and documenting new processes and training/ mentoring new hires on new processes.
+
+- Understands the SDLC and quality assurance/quality control concepts, metrics, methodologies and documentation standards.
+1. Design, build, test and deploy ML models at scale
+
+2. Experience with modern machine learning techniques including Ensemble Methods, Deep learning
+
+3. Write production ready code and deploy real time ML models ; expose ML outputs through APIs
+
+4. Analyse website and apps effectiveness and recommend changes to content, navigation and design
+
+5. Hypothesis Testing and Design of experiments to analyse and monitor results
+
+6. Experience in building digital enquiry generation models, product recommendations on website, marketing response models, social media analytics.
+
+7. Engineer features to improve decision algorithms
+
+8. Partner with data/ML engineers and vendor partners for input data pipes development and ML models automation
+
+Skill and Experience
+
+- 5-7 years of hands-on experience in Data Science with exposure to Digital Marketing, Social Media Analytics, CRM and traditional marketing Analytics
+
+- Work experience with Digital-native companies, Travel aggregator website, application companies OR e-commerce companies.
+
+1. ML algorithms - Supervised / Unsupervised Learning, Clustering, Time Series Forecasting, recommender systems etc.
+
+2. Languages and packages - Python, Spark, PySpark, SparkML, MLlib,
+
+3. Knowledge in cloud platform - Microsoft Azure ADF, Azure kafka, Azure Databricks, Databricks MLflow
+
+4. Experience building scalable / highly available distribute systems in production
+
+Experience -
+
+- 5-7 years of hands-on experience in Data Science with exposure to Digital Marketing, Social Media Analytics, CRM and traditional marketing Analytics
+
+- Work experience with Digital-native companies, Travel aggregator website, application companies OR e-commerce companies.
+- Ability to apply statistical modeling and algorithmic tools to solve business problems
+
+- Build a layer of customer intelligence by leveraging all types of customer data
+
+- Mine and analyze structured & unstructured data to develop custom data models for to support product and business development
+
+- Predict future inventory levels at the hospitals, using the right set of forecasting techniques
+
+- Provide insights to business teams and help in building a competitive pricing structure in network contracts
+
+- Drive optimization and improvement of product development, marketing techniques and business strategies.
+
+- Knowledge of a variety of machine learning techniques and their real-world advantages/drawbacks.
+
+- Ability to Interpret and summarize complex data succinctly into high-level presentations
+
+- Provide informed, data-backed and actionable insights that drive revenue and improve product experience.
+
+- Excellent written and verbal communication skills for coordinating across teams
+
+- Experience working with business teams is a plus
+
+- Experience in automation of operational processes is a plus
+- Should have experience on using SAS, Python, PySpark, SAS Model Manager
+
+- Good understanding of modelling techniques and risks involved - logistic regression, neural networks, na-ve bayes, random forest, XG boost, CNN, LSTM
+
+- Strong data handling, interpretive and problem solving skills with the ability to process large volume of transaction level data and efficiently derive actionable results.
+
+- Good team handling skills and ability to mentor juniors to drive outcomes
+
+- Having a - results oriented- attitude with - go get it done- skill
+
+- CFA and FRM certification is a plus
+- Strong financial modelling background - experience in building financial valuation models and customer profit scores
+
+- Prior exposure to credit risk and model risk - experience in risk analytics and models
+
+- Good understanding of model development process and statistical nuances
+
+- Banking experience necessary - understanding of all banking products in Retail and Corporate
+
+- Very strong analytical and problem solving abilities
+- Deliver best in class NPV valuation models and customer profit scores across all lending/liabilities/investment products and customer lifecycle in Retail and Corporate Banking.
+
+- Drive these modeling projects, covering all aspects of financial model development process (liaising with stakeholders, understanding business need / requirement, creation of model design, exhaustive data prep, building robust model, implementation and regular monitoring)
+
+Model Risk Management:
+
+- Assess model behavior and its suitability to particular products/structures
+
+- Develop and implement model benchmarks and compare the outcomes of various models; design model performance metrics
+
+- Assess appropriateness of the model's output risk sensitivities
+
+- Cogently documenting analysis findings and sharing with stakeholders
+
+- Support and contribute to the ongoing initiatives aligned with business priorities
+
+Qualifications:
+
+Advanced degree (master's or above) in a quantitative subject such as Engineering, Mathematics, Operations Research, Statistics, Economics or Finance
+
+Role Proficiencies:
+
+For successful execution of the job, a candidate should possess the following:
+- Develop analytical solutions / production-ready models that solve real business problems, taking account of business needs and technology/operations landscape
+
+- Apply advanced analytics, machine learning, and AI techniques to derive business value from the full range of internal and external data sets, leveraging Cloud-based Big Data technology
+
+- Translate complex data and methodology into strategic, operationally feasible insights and recommendations
+
+- Communicate clearly and effectively to technical and non-technical audiences, verbally and visually, to create understanding, engagement, and buy-in
+
+- Identify trends and opportunities to drive innovation, both in what we do and how we do it
+
+- Document all code and approach; actively contribute to and re-use community best practices
+
+- Be a great team player who embodies the values and passions that characterize Levi Strauss; have empathy to engage with colleagues from a wide variety of backgrounds
+
+Qualifications
+
+Required:
+
+- Advanced Degree in Mathematics, Physics, Computer Science, Engineering, Statistics, or an equivalent discipline required
+
+- Experience in developing models and algorithms in a commercial environment with a track record of creating meaningful business impact
+
+- Strong SQL and Python skills required; proficiency in at least one open-source programming language (R, Java, C++ or another) desirable
+
+- Expertise in multivariate statistical modelling (e.g. clustering, regression, principal components and factor analysis, time-series forecasting, Bayesian methods) and machine learning (Random Forest, KNN, SVM, boosting and bagging, regularization etc.) required
+
+- Experience with cloud computing platforms (AWS, GCP or other), or equivalent on-premise platform
+
+- Ability to simultaneously coordinate and track multiple deliverables, tasks and dependencies across multiple stakeholders / business areas
+
+Desirable:
+
+- Experience with neural networks and deep learning, using frameworks such as TensorFlow, desirable
+
+- Proficiency with data visualization tools (D3.js, R Shiny, Looker, Tableau or similar) desirable
+
+- Proficiency with Spark or MapReduce
+
+- Experience working in agile methodology
+
+- Prior experience in retail or FMCG
+
+#predictivemodels#neuralnetworks#deeplearning#advanced analytics#machine learning#AITechnique#models#algorithms#Spark#MapReduce#TensorFlow#artificialintelligence#NN#DL
+• Developing high-level solution architectures and working with our offshore team of big-data engineers and decision science analysts to build, test and assess models that predict and optimize business outcomes based on client’s success criteria.
+
+• Develop sophisticated yet simple interpretations and communicate insights to clients that lead to quantifiable business impact.
+
+• Building a deep relationship with clients by understanding their stated but more importantly, latent needs.
+
+• Working closely with the offshore delivery managers to ensure seamless communication and delivery cadence. Researching and identifying sales opportunity, generating leads, target identification and classification.
+
+
+Skills Required:
+
+Apart from being Driven, Energetic and Ambitious, you’ll need the following:
+
+• Hands-on experience with statistical tools and techniques
+
+• Great analytical skills, with expertise in analytical toolkit such as Logistic Regression, Cluster
+
+Analysis, Factor Analysis, Multivariate Regression, Statistical modelling, predictive analysis.
+
+• Ability to think creatively and work well both as part of a team and as an individual contributor
+
+• Critical eye for the quality of data and strong desire to get it right.
+
+• Strong communication skills
+
+• A pleasantly forceful personality and charismatic communication style.
+
+• Someone who will raise the average effectiveness of the team and has demonstrated exceptional
+
+• abilities in some area of their life. In short, we are looking for a “Difference Maker”.
+Knowledge of predictive/prescriptive analytics including Machine Learning algorithms (Supervised and Unsupervised) and deep learning algorithms, Artificial Neural Networks (CUDA, Keras, Tensorflow) or Combinatorics (Mixed Integer Programming).
+Experience leading the end-to-end design, development, and deployment of predictive modeling solutions.
+Advanced SQL skills with Teradata, SQL Server, Hive and Spark experience.
+Experience with Natural Language Processing (NLTK) and text analytics for information extraction, parsing and topic modeling.
+Six or more years of relevant work experience
+Ability to plan work and meet deadlines
+Experience with using big data to develop models.
+Experience with Spark.
+Experience presenting to and influencing functional leaders and stakeholders.
+Deep expertise in applying machine learning to solve a class of AI problems such as NLU/NLP, Reinforcement Learning, Voice Biometrics, Text Mining, and Intelligent Process Automation.
+1.5-10 years of hands-on knowledge of Analytics, Data Science, AI, ML, NLP, Statistical Modeling in Google analytics
+
+2.Set up and track /if required customize tracking of various relevant websites / app/ internet connection devices
+
+3.Determine analytic methods/algorithm and develop same to solve business problem
+
+5. Understanding customer requirement and suggesting solutions/approach
+1.Experience into Life sciences domain
+
+2. Excellent Communication & Presentation skills
+Extensive experience into google Analytics and customer tracking in relevant website/app/internet connection devices.
+Hands-on knowledge of Analytics, Data Science, AI, ML, NLP, Statistical Modeling in Google analytics
+Set up and track /if required customize tracking of various relevant websites / app/ internet connection devices 
+4 to 6 years of strong experience in data mining, machine learning and statistical analysis.
+BS/MS/PhD in Computer Science, Statistics, Applied Math, or related areas from Premier institutes ( only IITs / IISc / BITS / Top NITs or top US university should apply)
+Experience in productizing models to code in fast paced start-up environment.
+Fluency in analytical tools such as Matlab, R, Weka etc.
+Strong intuition for data and Keen aptitude on large scale data analysis.
+Strong communication and collaboration skills.
+Research and develop advanced statistical and machine learning models for analysis of large-scale, high-dimensional data. 
+Dig deeper into data, understand characteristics of data, evaluate alternate models and validate hypothesis through theoretical and empirical approaches.
+Productize proven or working models into production quality code.
+Collaborate with product management, marketing and engineering teams in Business Units to elicit & understand their requirements & challenges and develop potential solutions .
+Stay current with latest research and technology ideas; share knowledge by clearly articulating results and ideas to key decision makers.
+File patents for innovative solutions that add to company's IP portfolio.
+Work within cloud environment (e.g., Microsoft Azure, AWS, Google Cloud)
+Build and maintain data pipelines for use in advanced analytics, artificial intelligence, and machine learning projects
+Clean and prepare data for use in advanced analytics, artificial intelligence, and machine learning projects
+Execute predictive and prescriptive analytics with an emphasis on actionable insights to be deployed in the market or with shoppers
+Be able to pull, analyze, and manipulate POS and Panel data and translate it into business concepts.
+Advise and share Advanced Analytics models and best practices with Regional Category Managers to leverage and build Advanced Analytics capability.
+Develop, maintain, and apply statistical models to business questions - including forecasting, marketing mix, price sensitivities/corridors, drivers analysis, market structure, etc.
+Collate and format consumer learnings from custom insight outputs, sales performace reporting, industry periodicals, and social listening resources, etc to help inform and develop future consumer insights strategies
+Provide responses to ad-hoc follow-ups when double-click (additional questions) required with tables/charts for relevant data
+Create visualizations to be used in explaining and clarifying difficult concepts and analytical insights
+Work within cloud environment (e.g., Microsoft Azure, AWS, Google Cloud)
+Build and maintain data pipelines for use in advanced analytics, artificial intelligence, and machine learning projects
+Clean and prepare data for use in advanced analytics, artificial intelligence, and machine learning projects
+Execute predictive and prescriptive analytics with an emphasis on actionable insights to be deployed in the market or with shoppers
+Be able to pull, analyze, and manipulate POS and Panel data and translate it into business concepts.
+Advise and share Advanced Analytics models and best practices with Regional Category Managers to leverage and build Advanced Analytics capability.
+Develop, maintain, and apply statistical models to business questions - including forecasting, marketing mix, price sensitivities/corridors, drivers analysis, market structure, etc.
+Collate and format consumer learnings from custom insight outputs, sales performace reporting, industry periodicals, and social listening resources, etc to help inform and develop future consumer insights strategies
+Provide responses to ad-hoc follow-ups when double-click (additional questions) required with tables/charts for relevant data
+Create visualizations to be used in explaining and clarifying difficult concepts and analytical insights
+- Engages with CPG Leadership of Tredence's clients to identify critical business problems, define the need for Analytics led solutions and build strategy and roadmap
+
+- S/he possesses an in-depth understanding of end-to-end CPG business functions (e.g. Demand, Revenue, Pricing, Assortment, Marketing, Consumer experience, manufacturing, e-commerce etc.) - capable of holding an independent opinion plus holding a conversation with a senior client person from similar function
+
+- S/he possesses a wide exposure to business functions in different CPG and manufacturing business
+
+- Working experience in e-commerce and technology like IoT, cloud, blockchain, mobility will be an added advantage
+
+- S/he has in the past built repeatable tools / data-models to solve specific business problems-
+
+Mandatorily, on Excel :
+
+- Preferably on R/Python, SQL, Tableau etc
+
+- S/he should have hand-on experience of having worked on projects (either as a consultant or with in a company) that needed them to -
+
+- Provide consultation to senior client personnel
+
+- Create a data-driven, analytics-based solutions; for e.g. actions based on EDA and insights, automation of insights, decision tools etc.
+
+- Worked with business teams or was a part of the team that implemented process re-engineering driven by data analytics / insights
+
+- Should have deep appreciation of how data can be used in decision making
+
+- Should have perspective on newer ways of solving business problems. E.g. external data, innovative techniques, newer technology
+
+- S/he must have a solution creation mindset. Ability to design and enhance scalable algorithmic solutions to address the business need is good to have
+
+- Working experience on analytical tools such as Tableau, PowerBI, and similar tools is good to have
+
+- Knowledge of statistical techniques such as Regression, Clustering, Time Series Forecasting, etc.
+
+- Engage with technology teams from Tredence and Clients to create last mile connectivity of the solutions -
+
+- Should have experience of working with technology teams
+
+- Demonstrated ability in thought leadership - Articles/White Papers/Interviews
+- Become a trusted CPG domain content partner for sales and account teams
+
+- Become a trusted thought partner for clients. Ability to bring thought leadership to CPG businesses
+
+- Understanding of syndicate data. e.g. Nielsen, IRI, Dun & Bradstreet etc.
+
+- Ability to think newer ways of solving problems
+
+- Program management- mindset to recommend clients of strategy and roadmap to drive business impact
+
+- Take ownership and targets on revenues / margins
+
+- Undertake full ownership of driving several client assignments, with project teams reporting to him/her or without direct reporting structure
+
+- Engage with clients and business partners to understand their requirement, identify their challenges
+
+- Appreciate project brief
+
+- Bring in external thought leadership and engage with senior client personnel
+
+- Translate business problems into analytical brief
+
+- Create solution framework and identify hypothesis for validations
+
+- Work with team members to test these hypothesis
+
+- Bring out discovery elements in the process
+
+- Story-board relevant insights
+
+- Create crisp and impactful presentations
+
+- Drive last mile actions
+
+- Conduct value engineering to ensure that the implementation did drive business impact
+
+- Lead and manage independently the onsite-offshore relation, at the same time adding value to the client.
+
+- Build engaging rapport with client leadership through relevant conversations and genuine business recommendations that impact the growth and profitability of the client organization.
+
+- Actively participate in business development and account mining through proof of concepts and point of views
+
+- Develop and mentor team members
+
+- Be comfortable with rolling up sleeves and get hands dirty with data, technology, analysis and slides
+Quality and speed of decision making and actions in various layers across the organization from top management to front line sales officers, through the following:
+
+- Directly provide useful timely data/information in pre-defined format via suitable methodology based on the organization/functional requirement which may change from time to time, by developing and operating MIS generating mechanism.
+
+- Create and maintain an environment which targeted users can by their own utilize/analyse useful data for their requirements in timely manner, by developing and operating standardized data/information platform which is accessible and usable with minimum training requirement (ideally without training).
+
+- Provide analytical tool/solution based on discussion with relevant stakeholders. Timely and accurate regulatory reporting. Keep improving effectiveness and efficiency of all above by applying appropriate technology.
+
+- MIS generation and delivery
+
+- IRDAI reporting (for assigned ones)
+
+- Data-warehouse, data standardization and cleansing
+
+- Analytical modelling
+
+- Actionable insights from data monitoring and analysis.
+
+- Periodically assess the relevance of MIS, Data-warehouse and Analytical modelling framework in terms of requirement and technology, propose solutions when appropriate, and implement agreed solutions.
+
+- Build and maintain internal BIU team with appropriate skillsets to execute above-
+
+Skills required:
+
+- Complex data modelling and data mining skills
+
+- Excellent Knowledge of Performance dashboards, regulatory, management & functional reports
+
+- Working Knowledge on MS SQL
+
+- Experience with Visualization Tools such as QlikView, Tableau or Power BI
+
+- Proficiency in MS Office specially Excel and PowerPoint
+
+- Working experience with BI tools like Cognos, Pentaho, etc (preferred)
+
+Preferred Work Experience:
+
+- Experience of 15-20 years in managing BI/Analytics Unit in Life Insurance/ Banking / IT consulting industry.
+- Incumbents work with large and complex data sets (both internal and external data) to evaluate, recommend, and support the implementation of business strategies
+
+- Identifies and compiles data sets using a variety of tools (e.g. Python, SQL, Access) to help predict, improve, and measure the success of key business to business outcomes
+
+- Responsible for documenting data requirements, data collection / processing / cleaning, and exploratory data analysis; which may include utilizing statistical models / algorithms and data visualization techniques
+
+- Incumbents in this role may often be referred to as Data Scientists
+
+- Specialization in marketing, risk, digital and AML fields possible
+
+- Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding the organization its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency, as well as effectively supervise the activity of others and create accountability with those who fail to maintain these standards.
+
+Qualifications:
+
+- 8-12 years of experience
+
+- Ability to communicate technical information to both technical and non-technical audiences required
+
+- Problem solving, root cause analysis skills required
+
+- Ability to focus on multiple priorities and drive solutions in a fast paced working environment
+
+- Relevant work experience in data quality, data analytics, data management within the financial services industry required
+
+- Outstanding analytical and problem-solving skills
+#Data Science #Data Scientist #Python #Data Analytics #Analytics #SQL #Data Visualization #Statistical Modeling #Statistics #Data Modeling
+#Marketing #Product Marketing #Campaign Management #Social Media #Content Development #Sales Promotion #Email Marketing #Marketing Communications
+Neural Network/ Artificial Neural Network)
+
+Random Forest
+
+Gradient Boosting
+
+Logit boosting
+
+Apriori Algorithm
+
+Support vector Machine
+
+Recommendation Learning
+
+Self-Organizing maps
+
+Pattern recognition  
+
+Interact effectively with a wide variety of people with varying backgrounds and responsibilities, including other credit risk analysts, project managers, operations personnel,
+
+Conduct training and developmental activities.
+
+Keep abreast with new technologies in machine learning domain
+
+Adhere strictly to compliance and operational risk controls in accordance with company and regulatory standards, policies and practices.
+
+Adhere to IT data policies, procedures and governance framework when performing tasks so as to ensure controls are in place and departmental goals are met
+
+Bachelor’s / Master’s Degree in discipline like IT/Software, Engineering, Mathematics, Statistics, Economics etc from a reputed university
+
+5-12 years in the analytics industry; of which at least 3 years of experience in machine learning/ high end analytical techniques
+
+Should be competent with techniques like neural network, boosting, support vector machine, random forest etc (hands on experience required)
+
+Good organizational, project management, analytical, problem-solving and verbal/written communication skills
+
+Comfortable working with the onshore/offshore team
+
+Good Knowledge of SAS/ R programming would be highly preferred
+
+Demonstrated success in managing multiple deliverables concurrently often within aggressive timeframes. Ability to cope under time pressure with collaborative attitude and approach
+
+Exposure to banking domain would be preferred
+10-15 Years of excellent hands-on experience in Data Science (Machine Learning, Artificial Intelligence) and Analytics.
+5+ Years of experience in statistical model (Descriptive & Predictive) development using machine learning, deep learning, NLP, image/video analytics and Artificial Intelligence techniques with strong knowledge of basic statistics.
+Proficiency in Multi-variate Data Analytics techniques such as: Regression, Principal Component Analysis, Cluster Analysis, CHAID, Logistic Regression, Time Series Forecasting, Artificial Neural Network, Natural Language Processing, Support Vector Machine, XGBoost etc.
+4-5 years in Reliability engineering and Predictivity analytics, preferably in Pharma manufacturing operations.
+Good understanding of the process to review models that include conceptual soundness, input-process-output testing, replication, goodness of fit, performance metrics for statistical or non-statistical models.
+Strong understanding on the functional and technical aspects of Validation such as Backtesting, sensitivity and Model accuracy.
+Understanding of Data Extraction from EDW/Big Data Platform, Dataset Preparation (creation of base data, aggregation, transformation), EDA, Model Development, Validation and Deployment Data visualization.
+Good to have:
+
+Good to have exposure of data bases like IQVIA & other secondary data sets like ClinicalTrial.gov, AdisInsight etc.
+Hands on Analytics, Data Science Modeling experience in Python, R, R Shiny.
+Data Transformation.
+Parallel Processing/Performance tuning.
+Cloud.
+Container.
+Kubernetes.
+Automation Experience.
+R/Batch Scheduling.
+Strong programming experience in Unix, SAS.
+Key Responsibilities area:
+
+Would be expected to participate in solution making and guide teams technically.
+Excellent Communication & Presentation skills.
+Ability to work in a fast-paced, agile environment.
+Experience & willing to be working within a geographically-dispersed team.
+Experience working across multiple groups and teams.
+Customer facing experience.
+Strong Business Acumen.
+
+10+ years of experience at a CPG company, making an impact in a market research/insights/analytics, marketing, competitive intelligence or other similar function with demonstrated ability to manage projects in a complex environment.
+Experience in custom qualitative and quantitative consumer research (50/50 balance of qual & quant experience).
+Advanced understanding of Brand and Innovation strategy process and Insights’ critical roles at each stage.
+Solid Experience in Big Data / Social listening tools is required, AI/ML experience preferred.
+Strong communication skills.
+Organizational Savvy.
+Excellent Project Management skills.
+Demonstrated ability to lead projects and overcome challenges
+
+Key Skills/Experience Required
+
+An ideal candidate is someone who has core Consumer Insights experience with CPG.
+Deep research methodology knowledge, experience driving business impact via Insights projects
+Experienced storyteller leveraging insights/consumer data and ability to shape deliverables for sr. (non insights) audience
+Experience of working with global, regional and local teams of insights professionals a plus
+Strong leadership and influencing profile: Motivate action through fact-based, inspirational material; Has a track record of identifying and championing new processes for improving fact-based decision making. Can synthesize multiple, disparate data sources into compelling growth strategies. Formulates a strong POV and can articulate future scenarios; Is an exceptional story-teller.
+Strong collaborator: Interested and motivated by working with others. Actively creates and Participates in opportunities to co-create solutions
+
+
+
+
